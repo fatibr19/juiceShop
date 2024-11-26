@@ -4,7 +4,7 @@ name: DevSecOps CI/CD Pipeline for OWASP Juice Shop
 on:
   push:
     branches:
-      - master
+      - main
 
 permissions:
   contents: write
